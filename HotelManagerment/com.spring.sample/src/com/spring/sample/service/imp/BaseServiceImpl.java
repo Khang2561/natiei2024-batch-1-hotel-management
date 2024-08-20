@@ -5,6 +5,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import com.spring.sample.dao.RoomDAO;
 import com.spring.sample.dao.RoomTypeDAO;
 import com.spring.sample.dao.UserDAO;
+import com.spring.sample.entity.Room;
+import com.spring.sample.entity.RoomType;
 
 public class BaseServiceImpl {
 
